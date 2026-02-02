@@ -17,8 +17,8 @@ A production-ready REST API for managing restaurant table reservations, built wi
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd tallie-test
+    git clone https://github.com/kingsleycj/tallie
+    cd tallie
     ```
 
 2.  **Install dependencies:**
