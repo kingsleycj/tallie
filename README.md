@@ -10,7 +10,7 @@ A production-ready REST API for managing restaurant table reservations, built wi
 - **Database**: MongoDB (Mongoose), Redis (ioredis)
 - **Validation**: Zod
 - **Testing**: Jest, Supertest, MongoDB Memory Server, ioredis-mock
-- **DevOps**: Docker, Docker Compose
+- **DevOps**: Docker, Docker Compose 
 
 ## 🛠️ Setup Instructions
 
